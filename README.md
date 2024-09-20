@@ -6,6 +6,6 @@ This project serves as an updated version to my Project 1 Food Website (found al
 
 To view the website easily and quickly without having to download files, here is a link I created to click below to an easy access in viewing my site through raw.githack.com. 
 
-(right click and click open in separate tab)
+(right click and click open link in new tab)
 
 https://rawcdn.githack.com/ronelkakos/Project-2-Food-Recipe-Site/bd0a424b654f683713fcd691357c9703f014ec1c/project2/index.html
